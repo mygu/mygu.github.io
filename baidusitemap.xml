@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+    
+    
+    
+    
+    
+  <url>
+    <loc>https://www.mygu.club/hexo-auto-deploy.html</loc>
+    <lastmod>2018-05-21T05:01:47.000Z</lastmod>
+    <data>
+        <display>
+        <title>Hexo博客自动部署</title>
+        <pubTime>2018-05-21T05:01:47.000Z</pubTime>
+        
+        <tag>Hexo</tag>
+         
+        <tag>自动部署</tag>
+         
+         
+           
+             
+              <breadCrumb title="前端" url="https://www.mygu.club/categories/%E5%89%8D%E7%AB%AF/"/>
+          
+             
+              <breadCrumb title="框架" url="https://www.mygu.club/categories/%E5%89%8D%E7%AB%AF/%E6%A1%86%E6%9E%B6/"/>
+          
+             
+              <breadCrumb title="Hexo" url="https://www.mygu.club/categories/%E5%89%8D%E7%AB%AF/%E6%A1%86%E6%9E%B6/Hexo/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://www.mygu.club/architect-awesome.html</loc>
+    <lastmod>2018-05-10T02:34:12.000Z</lastmod>
+    <data>
+        <display>
+        <title>后端架构师技术图谱</title>
+        <pubTime>2018-05-10T02:34:12.000Z</pubTime>
+        
+        <tag>架构</tag>
+         
+        <tag>图谱</tag>
+         
+         
+           
+             
+              <breadCrumb title="后端" url="https://www.mygu.club/categories/%E5%90%8E%E7%AB%AF/"/>
+          
+             
+              <breadCrumb title="架构" url="https://www.mygu.club/categories/%E5%90%8E%E7%AB%AF/%E6%9E%B6%E6%9E%84/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://www.mygu.club/encryption-analysis.html</loc>
+    <lastmod>2018-05-09T07:51:36.000Z</lastmod>
+    <data>
+        <display>
+        <title>加密技术解析</title>
+        <pubTime>2018-05-09T07:51:36.000Z</pubTime>
+        
+        <tag>对称加密算法</tag>
+         
+        <tag>非对称加密算法</tag>
+         
+        <tag>散列算法</tag>
+         
+         
+           
+             
+              <breadCrumb title="后端" url="https://www.mygu.club/categories/%E5%90%8E%E7%AB%AF/"/>
+          
+             
+              <breadCrumb title="加密算法" url="https://www.mygu.club/categories/%E5%90%8E%E7%AB%AF/%E5%8A%A0%E5%AF%86%E7%AE%97%E6%B3%95/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://www.mygu.club/java-dyna-load-db-drv.html</loc>
+    <lastmod>2018-05-07T08:41:12.000Z</lastmod>
+    <data>
+        <display>
+        <title>Java动态加载数据库驱动</title>
+        <pubTime>2018-05-07T08:41:12.000Z</pubTime>
+        
+        <tag>Java</tag>
+         
+        <tag>JDBC</tag>
+         
+        <tag>数据库驱动</tag>
+         
+         
+           
+             
+              <breadCrumb title="后端" url="https://www.mygu.club/categories/%E5%90%8E%E7%AB%AF/"/>
+          
+             
+              <breadCrumb title="语言" url="https://www.mygu.club/categories/%E5%90%8E%E7%AB%AF/%E8%AF%AD%E8%A8%80/"/>
+          
+             
+              <breadCrumb title="Java" url="https://www.mygu.club/categories/%E5%90%8E%E7%AB%AF/%E8%AF%AD%E8%A8%80/Java/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://www.mygu.club/centfecs-doc.html</loc>
+    <lastmod>2018-04-08T03:13:11.000Z</lastmod>
+    <data>
+        <display>
+        <title>喀麦隆贸易便利化项目文档（cntfecs）</title>
+        <pubTime>2018-04-08T03:13:11.000Z</pubTime>
+        
+        <tag>Document</tag>
+         
+         
+           
+             
+              <breadCrumb title="项目文档" url="https://www.mygu.club/categories/%E9%A1%B9%E7%9B%AE%E6%96%87%E6%A1%A3/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://www.mygu.club/redhat-nginx-auto-startup.html</loc>
+    <lastmod>2018-02-26T02:38:18.000Z</lastmod>
+    <data>
+        <display>
+        <title>RedHat Nginx自启动配置</title>
+        <pubTime>2018-02-26T02:38:18.000Z</pubTime>
+        
+        <tag>Nginx</tag>
+         
+        <tag>RedHat</tag>
+         
+         
+           
+             
+              <breadCrumb title="后端" url="https://www.mygu.club/categories/%E5%90%8E%E7%AB%AF/"/>
+          
+             
+              <breadCrumb title="Web服务器" url="https://www.mygu.club/categories/%E5%90%8E%E7%AB%AF/Web%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+          
+             
+              <breadCrumb title="Nginx" url="https://www.mygu.club/categories/%E5%90%8E%E7%AB%AF/Web%E6%9C%8D%E5%8A%A1%E5%99%A8/Nginx/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://www.mygu.club/windows-node-settings.html</loc>
+    <lastmod>2017-06-14T01:47:32.000Z</lastmod>
+    <data>
+        <display>
+        <title>Windows下配置Node环境</title>
+        <pubTime>2017-06-14T01:47:32.000Z</pubTime>
+        
+        <tag>NodeJs</tag>
+         
+        <tag>Windows</tag>
+         
+        <tag>Angular</tag>
+         
+         
+           
+             
+              <breadCrumb title="前端" url="https://www.mygu.club/categories/%E5%89%8D%E7%AB%AF/"/>
+          
+             
+              <breadCrumb title="框架" url="https://www.mygu.club/categories/%E5%89%8D%E7%AB%AF/%E6%A1%86%E6%9E%B6/"/>
+          
+             
+              <breadCrumb title="NodeJs" url="https://www.mygu.club/categories/%E5%89%8D%E7%AB%AF/%E6%A1%86%E6%9E%B6/NodeJs/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://www.mygu.club/cogitr-server-doc.html</loc>
+    <lastmod>2016-12-18T05:45:44.000Z</lastmod>
+    <data>
+        <display>
+        <title>Cogitr服务器相关文档(Cogitr server documents)</title>
+        <pubTime>2016-12-18T05:45:44.000Z</pubTime>
+        
+        <tag>Document</tag>
+         
+         
+           
+             
+              <breadCrumb title="项目文档" url="https://www.mygu.club/categories/%E9%A1%B9%E7%9B%AE%E6%96%87%E6%A1%A3/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://www.mygu.club/centos-settings.html</loc>
+    <lastmod>2016-12-12T06:32:25.000Z</lastmod>
+    <data>
+        <display>
+        <title>CentOS配置文档</title>
+        <pubTime>2016-12-12T06:32:25.000Z</pubTime>
+        
+        <tag>CentOS</tag>
+         
+        <tag>Python</tag>
+         
+        <tag>NodeJs</tag>
+         
+        <tag>MySql</tag>
+         
+        <tag>Nginx</tag>
+         
+         
+           
+             
+              <breadCrumb title="后端" url="https://www.mygu.club/categories/%E5%90%8E%E7%AB%AF/"/>
+          
+             
+              <breadCrumb title="操作系统" url="https://www.mygu.club/categories/%E5%90%8E%E7%AB%AF/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+          
+             
+              <breadCrumb title="CentOS" url="https://www.mygu.club/categories/%E5%90%8E%E7%AB%AF/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/CentOS/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://www.mygu.club/garbage-weighing-api-doc.html</loc>
+    <lastmod>2016-06-26T13:31:58.000Z</lastmod>
+    <data>
+        <display>
+        <title>垃圾袋称重箱和云服务器数据交互接口协议</title>
+        <pubTime>2016-06-26T13:31:58.000Z</pubTime>
+        
+        <tag>Document</tag>
+         
+         
+           
+             
+              <breadCrumb title="项目文档" url="https://www.mygu.club/categories/%E9%A1%B9%E7%9B%AE%E6%96%87%E6%A1%A3/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://www.mygu.club/garbage-sorting-api-doc.html</loc>
+    <lastmod>2016-05-21T06:28:32.000Z</lastmod>
+    <data>
+        <display>
+        <title>垃圾袋分类箱和云服务器数据交互接口协议</title>
+        <pubTime>2016-05-21T06:28:32.000Z</pubTime>
+        
+        <tag>Document</tag>
+         
+         
+           
+             
+              <breadCrumb title="项目文档" url="https://www.mygu.club/categories/%E9%A1%B9%E7%9B%AE%E6%96%87%E6%A1%A3/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://www.mygu.club/garbage-dispenser-api-doc.html</loc>
+    <lastmod>2016-05-21T06:28:32.000Z</lastmod>
+    <data>
+        <display>
+        <title>垃圾袋发放机和云服务器数据交互接口协议</title>
+        <pubTime>2016-05-21T06:28:32.000Z</pubTime>
+        
+        <tag>Document</tag>
+         
+         
+           
+             
+              <breadCrumb title="项目文档" url="https://www.mygu.club/categories/%E9%A1%B9%E7%9B%AE%E6%96%87%E6%A1%A3/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://www.mygu.club/nginx-free-https.html</loc>
+    <lastmod>2016-03-17T01:13:02.000Z</lastmod>
+    <data>
+        <display>
+        <title>使用Nginx + Let's Encrypt配置免费的HTTPS</title>
+        <pubTime>2016-03-17T01:13:02.000Z</pubTime>
+        
+        <tag>Nginx</tag>
+         
+        <tag>Letsencrypt</tag>
+         
+        <tag>Https</tag>
+         
+        <tag>Linux</tag>
+         
+         
+           
+             
+              <breadCrumb title="后端" url="https://www.mygu.club/categories/%E5%90%8E%E7%AB%AF/"/>
+          
+             
+              <breadCrumb title="Web服务器" url="https://www.mygu.club/categories/%E5%90%8E%E7%AB%AF/Web%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+          
+             
+              <breadCrumb title="Nginx" url="https://www.mygu.club/categories/%E5%90%8E%E7%AB%AF/Web%E6%9C%8D%E5%8A%A1%E5%99%A8/Nginx/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://www.mygu.club/cogitr-local-run-settings.html</loc>
+    <lastmod>2016-02-16T01:44:11.000Z</lastmod>
+    <data>
+        <display>
+        <title>本地运行Cogitr API项目文档(Run locally Cogitr API documents)</title>
+        <pubTime>2016-02-16T01:44:11.000Z</pubTime>
+        
+        <tag>Document</tag>
+         
+         
+           
+             
+              <breadCrumb title="项目文档" url="https://www.mygu.club/categories/%E9%A1%B9%E7%9B%AE%E6%96%87%E6%A1%A3/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://www.mygu.club/airwingtech-doc.html</loc>
+    <lastmod>2015-12-18T04:19:56.000Z</lastmod>
+    <data>
+        <display>
+        <title>云翎科技项目文档</title>
+        <pubTime>2015-12-18T04:19:56.000Z</pubTime>
+        
+        <tag>Document</tag>
+         
+         
+           
+             
+              <breadCrumb title="项目文档" url="https://www.mygu.club/categories/%E9%A1%B9%E7%9B%AE%E6%96%87%E6%A1%A3/"/>
+          
+        </display>
+    </data>
+    </url>
+
+</urlset>

@@ -1,0 +1,7 @@
+# robots.txt
+User-agent: *
+Disallow: 
+Sitemap: http://www.mygu.club/baidusitemap.xml
+Sitemap: http://mygu.club/baidusitemap.xml
+Sitemap: http://www.mygu.club/sitemap.xml
+Sitemap: http://mygu.club/sitemap.xml

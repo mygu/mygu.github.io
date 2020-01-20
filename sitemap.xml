@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.mygu.club/about/index.html</loc>
+    
+    <lastmod>2020-01-20T14:44:11.137Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.mygu.club/tags/index.html</loc>
     
     <lastmod>2018-12-03T02:48:16.037Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>https://www.mygu.club/categories/index.html</loc>
     
     <lastmod>2018-12-03T02:48:16.027Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.mygu.club/about/index.html</loc>
-    
-    <lastmod>2018-12-03T02:48:16.025Z</lastmod>
     
   </url>
   
